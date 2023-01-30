@@ -24,3 +24,7 @@ docs/site/
 Manifest.toml
 
 **/.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Q2/.ipynb_checkpoints/Q2-checkpoint.ipynb
+Q3/.ipynb_checkpoints/Q3_v2-checkpoint.ipynb
